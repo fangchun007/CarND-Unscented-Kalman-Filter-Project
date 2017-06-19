@@ -18,7 +18,7 @@ Here, we assume the standar deviation for longitudinal acceleration is 0.8 and a
 
 3. Results
 
-The final RMSE is as follows.
+The final RMSE for the dataset one is as follows.
 
      X: 0.0646
      Y: 0.0851
