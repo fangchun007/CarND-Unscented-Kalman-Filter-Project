@@ -6,9 +6,10 @@ In the tools, we contained two helper functions. They are used to calculate RMSE
 
 2. ukf.h, ukf.cpp
 The following is the processing flow
+
 [//]: # (Image References)
 [image1]: ./UFK_processingFlow.jpeg
-[image2]: ./result_pic.png
+[image2]: ./Result_pic.png
 
 ![alt text][image1]
 
