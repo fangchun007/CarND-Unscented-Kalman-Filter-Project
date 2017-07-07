@@ -49,6 +49,9 @@ UKF::UKF() {
     double weight = 0.5/(n_aug_+lambda_);
     weights_(i) = weight;
   }
+  //below implementation is more efficient, suggested by reviewer
+  //weights_.fill(0.5/(n_aug_ + lambda_));
+  //weights_(0) = lambda_/(lambda_ + n_aug_);
   
   ///* the current NIS for radar
   NIS_radar_ = 0.0;
