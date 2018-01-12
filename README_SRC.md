@@ -1,4 +1,4 @@
-This file is a additional remark for the [src](https://github.com/fangchun007/CarND-Unscented-Kalman-Filter-Project) folder.
+This file serves as a remark for the [src](https://github.com/fangchun007/CarND-Unscented-Kalman-Filter-Project) folder.
 
 1.  tools.h, tools.cpp
 
